@@ -1,0 +1,21 @@
+.body_background
+{
+    background-image: url(giphy.gif);
+    background-position: center;
+    background-size: cover;
+}
+body
+{
+    cursor: pointer;
+}
+#my_Canvas
+{
+    border-width: 10px;
+    border-style: ridge;
+    border-color: purple;
+    background-image: url(download.jpg);
+}
+button
+{
+    color: white;
+}
